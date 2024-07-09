@@ -107,7 +107,7 @@ const SignupForm = () => {
           <Button type="submit" className='shad-button_primary'>
             {isLoading ? (
               <div className="'flex-center gap-2">
-                Loading...           
+                Loading...          
               </div>
             ): "Sign up"}
           </Button>
